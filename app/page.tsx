@@ -17,7 +17,7 @@ export default function Home() {
             </h1>
 
             <p className='text-lg md:text-xl text-muted-foreground max-w-3xl mx-auto text-pretty animate-fade-in-up animation-delay-200'>
-              Raids épicos, PvP y fails. ¡Ahora incluyendo a los mejores de habla hispana!
+              Raids épicos, PvP y fails. ¡Ahora incluyendo a los streamers de habla hispana!
             </p>
 
             <div className='flex flex-col sm:flex-row items-center justify-center gap-4 animate-fade-in-up animation-delay-300'>
